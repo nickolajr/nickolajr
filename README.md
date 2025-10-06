@@ -22,11 +22,6 @@ Git, Docker, Linux, Windows Server
 
 ---
 
-## 🏫 Education
-
-**Datatekniker (Programming Specialization)** – TEC, Denmark  
- 
----
 
 ## 🚀 Projects
 
@@ -49,6 +44,11 @@ Git, Docker, Linux, Windows Server
 
 ---
 
+## 🏫 Education
+
+**Datatekniker (Programming Specialization)** – TEC, Denmark  
+ 
+---
 
 ## 🌐 Languages
 - **Danish:** Native  
