@@ -2,7 +2,7 @@
 
 
 
-I’m a **Datatekniker in training with a specialization in programming** (TEC, graduating Feb 2026) passionate about **software development, problem solving, and IT infrastructure**. I thrive in environments where I can **learn fast, collaborate effectively**, and **turn ideas into practical solutions**.  
+I’m passionate about **software development, problem solving, and IT infrastructure**. I thrive in environments where I can **learn fast, collaborate effectively**, and **turn ideas into practical solutions**.  
 
 ---
 
