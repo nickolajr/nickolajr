@@ -1,4 +1,4 @@
-# Hi there, I'm Nickolaj Rasmussen 👋
+# Hi there, I'm Nickolaj👋
 
 
 
