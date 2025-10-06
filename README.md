@@ -6,12 +6,6 @@ I’m passionate about **software development, problem solving, and IT infrastru
 
 ---
 
-## 📫 Contact Me
-- **Email:** [nickolaj.r1@gmail.com](mailto:nickolaj.r1@gmail.com)  
-
-
----
-
 ## 💻 Skills
 
 **Programming & Backend:**  
@@ -67,5 +61,9 @@ I enjoy taking on projects that mix **hardware and software**, and I love turnin
 
 ---
 
+## 📫 Contact Me
+- **Email:** [nickolaj.r1@gmail.com](mailto:nickolaj.r1@gmail.com)  
+
+---
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nickolajr&layout=compact&theme=radical)
